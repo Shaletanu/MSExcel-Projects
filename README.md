@@ -1,4 +1,4 @@
-# MSExcel-Projects
+# <b>PivotTable Project</b>
 
 - <b>PivotTable Basic Project</b>
   - Executed PivotTable feature into a data containing yearly sales by salesperson.
