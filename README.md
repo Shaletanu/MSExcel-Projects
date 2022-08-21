@@ -1,6 +1,6 @@
-# <b>PivotTable Project</b>
+# <b>Yearly Sales analysis using PivotTable in MS Excel</b>
 
-- <b>PivotTable Basic Project</b>
+
   - Executed PivotTable feature into a data containing yearly sales by salesperson.
   - Calculated total and average yearly sales based on year, month and salesperson.
   - Summarized data into visualizations using PivotCharts.
