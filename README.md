@@ -1,7 +1,7 @@
 # <b>Yearly Sales Analysis using PivotTable in MS Excel</b>
 
 
-  - Executed PivotTable feature into a data containing yearly sales by salesperson.
+  - Executed PivotTable feature into a dataset containing yearly sales
   - Calculated total and average yearly sales based on year, month and salesperson.
   - Summarized data into visualizations using PivotCharts.
   - PivotCharts were made interactive by inserting Slicer Tool
